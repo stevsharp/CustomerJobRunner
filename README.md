@@ -1,7 +1,7 @@
 # CustomerSyncConsole
 
 ## Overview
-CustomerSyncConsole is a .NET 8 console application that demonstrates:
+CustomerSyncConsole is a .NET 9 console application that demonstrates:
 - Polling simulated data
 - Using Channels for message passing
 - Triggering Hangfire background jobs when conditions are met
