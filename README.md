@@ -26,5 +26,3 @@ dotnet run
 - `ChannelConsumerService` reads from the channel and enqueues Hangfire jobs for CustomerId = 1.
 - Hangfire processes jobs in-memory.
 
-## License
-MIT
