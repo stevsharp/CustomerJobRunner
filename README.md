@@ -1,3 +1,9 @@
+Read the full article at :
+
+https://coderlegion.com/7559/tutorial-building-a-net-9-console-app-with-hangfire-and-channels
+
+https://dev.to/stevsharp/tutorial-building-a-net-9-console-app-with-hangfire-and-channels-1g02
+
 # CustomerSyncConsole
 
 ## Overview
